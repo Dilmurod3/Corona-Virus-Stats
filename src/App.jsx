@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import covidRepository from "./repositories/covidRepository";
 import "./App.css";
-
+//
 function App() {
   const [country, setCountry] = useState();
   const [cases, setCases] = useState(false);
