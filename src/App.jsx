@@ -35,6 +35,7 @@ function App() {
             <h3>
               <b>Deaths: </b> {c.total_deaths}
             </h3>
+            <img src={c.flag} alt="" />
             <hr />
           </>
         ))
