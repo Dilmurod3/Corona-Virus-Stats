@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/covid-19/static/css/main.da8649d4.chunk.css",
-    "main.js": "/covid-19/static/js/main.a42c5bf5.chunk.js",
-    "main.js.map": "/covid-19/static/js/main.a42c5bf5.chunk.js.map",
-    "runtime-main.js": "/covid-19/static/js/runtime-main.d5c306b8.js",
-    "runtime-main.js.map": "/covid-19/static/js/runtime-main.d5c306b8.js.map",
-    "static/js/2.082c6d04.chunk.js": "/covid-19/static/js/2.082c6d04.chunk.js",
-    "static/js/2.082c6d04.chunk.js.map": "/covid-19/static/js/2.082c6d04.chunk.js.map",
-    "static/js/3.4d23f27f.chunk.js": "/covid-19/static/js/3.4d23f27f.chunk.js",
-    "static/js/3.4d23f27f.chunk.js.map": "/covid-19/static/js/3.4d23f27f.chunk.js.map",
-    "index.html": "/covid-19/index.html",
-    "static/css/main.da8649d4.chunk.css.map": "/covid-19/static/css/main.da8649d4.chunk.css.map",
-    "static/js/2.082c6d04.chunk.js.LICENSE.txt": "/covid-19/static/js/2.082c6d04.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/covid-19/static/media/Desktop - 1.b608ba82.jpg"
+    "main.css": "/Corona-Virus-Stats/static/css/main.dab5bfa2.chunk.css",
+    "main.js": "/Corona-Virus-Stats/static/js/main.a42c5bf5.chunk.js",
+    "main.js.map": "/Corona-Virus-Stats/static/js/main.a42c5bf5.chunk.js.map",
+    "runtime-main.js": "/Corona-Virus-Stats/static/js/runtime-main.374c0a6f.js",
+    "runtime-main.js.map": "/Corona-Virus-Stats/static/js/runtime-main.374c0a6f.js.map",
+    "static/js/2.082c6d04.chunk.js": "/Corona-Virus-Stats/static/js/2.082c6d04.chunk.js",
+    "static/js/2.082c6d04.chunk.js.map": "/Corona-Virus-Stats/static/js/2.082c6d04.chunk.js.map",
+    "static/js/3.4d23f27f.chunk.js": "/Corona-Virus-Stats/static/js/3.4d23f27f.chunk.js",
+    "static/js/3.4d23f27f.chunk.js.map": "/Corona-Virus-Stats/static/js/3.4d23f27f.chunk.js.map",
+    "index.html": "/Corona-Virus-Stats/index.html",
+    "static/css/main.dab5bfa2.chunk.css.map": "/Corona-Virus-Stats/static/css/main.dab5bfa2.chunk.css.map",
+    "static/js/2.082c6d04.chunk.js.LICENSE.txt": "/Corona-Virus-Stats/static/js/2.082c6d04.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Corona-Virus-Stats/static/media/Desktop - 1.b608ba82.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5c306b8.js",
+    "static/js/runtime-main.374c0a6f.js",
     "static/js/2.082c6d04.chunk.js",
-    "static/css/main.da8649d4.chunk.css",
+    "static/css/main.dab5bfa2.chunk.css",
     "static/js/main.a42c5bf5.chunk.js"
   ]
 }
